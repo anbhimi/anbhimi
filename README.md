@@ -32,8 +32,8 @@ As a Junior Data Scientist, I am responsible for developing data science pipelin
 ### Contact
 
 * +1 317-701-8138 :phone:
-* [G-mail](mailto:bananthreddy30@gmail.com)
-* [Ananth-LinkedIn](https://www.linkedin.com/in/ananth-reddy-bhimireddy-703245188/)
+* [Gmail](mailto:bananthreddy30@gmail.com)
+* [Ananth Reddy - LinkedIn](https://www.linkedin.com/in/ananth-reddy-bhimireddy-703245188/)
 
 <!--
 **anbhimi/anbhimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
