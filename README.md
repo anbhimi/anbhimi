@@ -4,7 +4,7 @@ I'm Ananth Bhimireddy, a graduate student and research assistant at IUPUI. I am 
 
 ### Work Experience :computer:
 
-##### Research Assistant - IUPUI
+##### Data Scientist (Research Assistant) - IUPUI
 > Aug 2019 - Present
 
 I am currently working on two parallel research streams. One of them deals with identifying and reducing the time taken to diagnose rare diseases. This involves extracting symptoms, disease/disorders of a given patient over a period of time to narrow down the probability of the sickness being a certain disease. The research is being conducted at [Data Lab - IUPUI](https://data.soic.iupui.edu/people.html) under the esteemed guidance of [Prof. Sunandan Chakraborty](https://soic.iupui.edu/people/sunandan-chakraborty/). We are using Natural Language Processing and information extraction techniques to extract the relevant entities from patient notes and model them accordingly.
