@@ -32,7 +32,7 @@ As a Junior Data Scientist, I am responsible for developing data science pipelin
 ##### ImageBERT for Chest X-ray classification - IUPUI PLHI Lab
 * https://scholarworks.iupui.edu/handle/1805/23153
 
-##### Fake News Detection using Siamese BERT Networks - Expected
+##### Fake News Detection using Siamese BERT Networks
 * https://github.com/anbhimi/fake_news_detection
 
 ##### Human Pose Estimation in Images and Videos
