@@ -17,7 +17,7 @@ I am currently working on two parallel research streams. One of them deals with 
 On the other research stream, I am working on implementing Few-Shot Learning algorithm to fine-tune a few image triplets from CheXpert dataset (https://stanfordmlgroup.github.io/competitions/chexpert/) and produce results (by decreasing false-positives and false-negitives) better than the state-of-the-art models trained for the CheXpert compeition. We have experiemented with usual Few-Shot Learning and incremental Few-Shot Learning models. MarginRakingLoss (https://pytorch.org/docs/stable/generated/torch.nn.MarginRankingLoss.html) is being used as the loss function to implement Few-Shot Learning model. This research was performed at [PLHI Lab - IUPUI](https://plhi.sitehost.iu.edu/) under the supervision of [Prof. Saptarshi Purkayastha](https://soic.iupui.edu/people/saptarshi-purkayastha/).
 
 ##### Data Scientist - GGK Technologies
-> May 2018 - Jul 2019
+> Dec 2017 - Jul 2019
 
 As a Data Scientist, I (along with the team) were responsible for developing data science pipelines for problems of various domains including healthcare, banking, and HR Analytics. The pipeline development includes data mining/collection, data processing, applying machine learning and deep learning models, model improvement. I have worked extensively on Natural Language Processing Problems and Deep Learning Algorithms.
 
