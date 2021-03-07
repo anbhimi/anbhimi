@@ -32,9 +32,6 @@ As a Data Scientist, I (along with the team) were responsible for developing dat
 ##### ImageBERT for Chest X-ray classification - IUPUI PLHI Lab
 * https://scholarworks.iupui.edu/handle/1805/23153
 
-##### Fake News Detection using Siamese BERT Networks
-* https://github.com/anbhimi/fake_news_detection
-
 ##### Human Pose Estimation in Images and Videos
 * https://www.sciencepubco.com/index.php/ijet/article/view/17640/7764
 
