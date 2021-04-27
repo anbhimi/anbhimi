@@ -9,17 +9,17 @@ I'm Ananth Bhimireddy, a graduate student and research assistant at IUPUI. I am 
 
 I am working as Data Scientist for a client (EmeraldX) where I am working on Data Analysis, Visualizations and automating the daily operations of the client. We are building a unified data repository of customers to apply Machine Learning models and extract insights from the data.
 
-##### Data Scientist (Research Assistant) - IUPUI
+##### Research Assistant (Data Science and Machine Learning) - IUPUI
 > Aug 2019 - Present
 
 I am currently working on two parallel research streams. One of them deals with identifying and reducing the time taken to diagnose rare diseases. This involves extracting symptoms, disease/disorders of a given patient over a period of time to narrow down the probability of the sickness being a certain disease. The research is being conducted at [Data Lab - IUPUI](https://data.soic.iupui.edu/people.html) under the esteemed guidance of [Prof. Sunandan Chakraborty](https://soic.iupui.edu/people/sunandan-chakraborty/). We are using Natural Language Processing, Entity Extraction and Information Extraction techniques to extract the relevant entities from patient notes and model them accordingly.
 
 On the other research stream, I am working on implementing Few-Shot Learning algorithm to fine-tune a few image triplets from CheXpert dataset (https://stanfordmlgroup.github.io/competitions/chexpert/) and produce results (by decreasing false-positives and false-negitives) better than the state-of-the-art models trained for the CheXpert compeition. We have experiemented with usual Few-Shot Learning and incremental Few-Shot Learning models. MarginRakingLoss (https://pytorch.org/docs/stable/generated/torch.nn.MarginRankingLoss.html) is being used as the loss function to implement Few-Shot Learning model. This research was performed at [PLHI Lab - IUPUI](https://plhi.sitehost.iu.edu/) under the supervision of [Prof. Saptarshi Purkayastha](https://soic.iupui.edu/people/saptarshi-purkayastha/).
 
-##### Data Scientist - GGK Technologies
+##### Software Engineer (Machine Learning) - GGK Technologies
 > Dec 2017 - Jul 2019
 
-As a Data Scientist, I (along with the team) were responsible for developing data science pipelines for problems of various domains including healthcare, banking, and HR Analytics. The pipeline development includes data mining/collection, data processing, applying machine learning and deep learning models, model improvement. I have worked extensively on Natural Language Processing Problems and Deep Learning Algorithms.
+As a Machine Learning Engineer, I (along with the team) were responsible for developing data science pipelines for problems of various domains including healthcare, banking, and HR Analytics. The pipeline development includes data mining/collection, data processing, applying machine learning and deep learning models, model improvement. I have worked extensively on Natural Language Processing Problems and Deep Learning Algorithms.
 
 ### Research Papers :books:
 
