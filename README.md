@@ -4,13 +4,16 @@ I'm Ananth Bhimireddy, a graduate student and research assistant at IUPUI. I am 
 
 ### Work Experience :computer:
 
+##### Systems Software Engineer - Emory University
+> Jun 2021 - Present
+
 ##### Data Science Intern - Unisoft Solutions LLC
-> Oct 2020 - Present
+> Oct 2020 - May 2021
 
 I am working as Data Scientist for a client (EmeraldX) where I am working on Data Analysis, Visualizations and automating the daily operations of the client. We are building a unified data repository of customers to apply Machine Learning models and extract insights from the data.
 
 ##### Research Assistant (Data Science and Machine Learning) - IUPUI
-> Aug 2019 - Present
+> Aug 2019 - May 2021
 
 I am currently working on two parallel research streams. One of them deals with identifying and reducing the time taken to diagnose rare diseases. This involves extracting symptoms, disease/disorders of a given patient over a period of time to narrow down the probability of the sickness being a certain disease. The research is being conducted at [Data Lab - IUPUI](https://data.soic.iupui.edu/people.html) under the esteemed guidance of [Prof. Sunandan Chakraborty](https://soic.iupui.edu/people/sunandan-chakraborty/). We are using Natural Language Processing, Entity Extraction and Information Extraction techniques to extract the relevant entities from patient notes and model them accordingly.
 
