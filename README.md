@@ -1,7 +1,5 @@
 ## Hi 👋
 
-I'm Ananth Bhimireddy, a graduate student and research assistant at IUPUI. I am currently working as a Data Science Intern at Unisoft Solutions LLC and as a researcher in the field of deep learning and natural language processing at IUPUI. I am actively looking for full-time opportunities in the field of artificial intelligence, data science and deep learning. Here are a few details about myself.
-
 ### Work Experience :computer:
 
 ##### Systems Software Engineer - Emory University
