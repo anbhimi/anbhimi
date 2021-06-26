@@ -8,7 +8,7 @@
 ##### Data Science Intern - Unisoft Solutions LLC
 > Oct 2020 - May 2021
 
-I am working as Data Scientist for a client (EmeraldX) where I am working on Data Analysis, Visualizations and automating the daily operations of the client. We are building a unified data repository of customers to apply Machine Learning models and extract insights from the data.
+I worked with a client (EmeraldX) where I worked on Data Analysis, Visualizations and automating the daily operations of the client. We built a unified data repository of customers to apply Machine Learning models and extract insights from the data.
 
 ##### Research Assistant (Data Science and Machine Learning) - IUPUI
 > Aug 2019 - May 2021
