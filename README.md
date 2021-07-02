@@ -5,6 +5,8 @@
 ##### Systems Software Engineer - Emory University
 > Jun 2021 - Present
 
+Developing and validating complex machine learning and deep learning models on medical images (Chest X-Rays, Mammograms and Digital Hand Images).
+
 ##### Data Science Intern - Unisoft Solutions LLC
 > Oct 2020 - May 2021
 
