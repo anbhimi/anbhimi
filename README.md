@@ -27,6 +27,9 @@ As a Machine Learning Engineer, I (along with the team) were responsible for dev
 
 ### Research Papers :books:
 
+##### Reading Race: AI Recognises Patient's Racial Identity In Medical Images
+* https://arxiv.org/abs/2107.10356
+
 ##### Blood Glucose Level Prediction as Time-Series Modeling using Sequence-to-Sequence Neural Networks - IUPUI PLHI Lab
 * https://par.nsf.gov/biblio/10188463
 
