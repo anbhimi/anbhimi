@@ -2,7 +2,7 @@
 
 ### Work Experience :computer:
 
-##### Systems Software Engineer - Emory University
+##### Systems Software Engineer (Machine Learning) - Emory University
 > Jun 2021 - Present
 
 - Developed and validated complex machine learning and deep learning models on medical images (Chest X-Rays, Mammograms and Digital Hand Images) to identify racial bias.
