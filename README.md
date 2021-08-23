@@ -27,7 +27,7 @@
 ##### Software Engineer (Machine Learning) - GGK Technologies
 > Dec 2017 - Jul 2019
 
-- As a Machine Learning Engineer, I (along with the team) were responsible for developing data science pipelines for problems of various domains including healthcare, banking, and HR Analytics. The pipeline development includes data mining/collection, data processing, applying machine learning and deep learning models, model improvement. I have worked extensively on Natural Language Processing Problems and Deep Learning Algorithms.
+- As a Machine Learning Engineer, I was responsible for developing data science pipelines for problems of various domains including healthcare, banking, and HR Analytics. The pipeline development includes data mining/collection, data processing, applying machine learning and deep learning models, model improvement. I have worked extensively on Natural Language Processing Problems and Deep Learning Algorithms.
 - Developed Machine Learning models to classify and explain the claim denial process with the help of several data points such as ICD Codes and Demographic Information of the patient.
 
 ### Research Papers :books:
