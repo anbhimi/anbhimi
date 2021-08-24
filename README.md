@@ -35,6 +35,9 @@
 ##### Reading Race: AI Recognises Patient's Racial Identity In Medical Images - IUPUI (PLHI Lab) and Emory University (HITI Lab)
 * https://arxiv.org/abs/2107.10356
 
+##### PLHI-MC10: A dataset of exercise activities captured through a triple synchronous medically-approved sensor - IUPUI (PLHI Lab)
+* https://www.sciencedirect.com/science/article/pii/S2352340921005710
+
 ##### Blood Glucose Level Prediction as Time-Series Modeling using Sequence-to-Sequence Neural Networks - IUPUI (PLHI Lab)
 * https://par.nsf.gov/biblio/10188463
 
