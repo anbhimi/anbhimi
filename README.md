@@ -56,7 +56,10 @@
 
 * +1 317-701-8138 :phone:
 * [Gmail](mailto:bananthreddy30@gmail.com)
-* [Ananth Reddy - LinkedIn](https://www.linkedin.com/in/ananth-reddy-703245188/)
+
+### Profile
+* [LinkedIn](https://www.linkedin.com/in/ananth-reddy-703245188/)
+* [Google Scholar](https://scholar.google.com/citations?user=gfqzBdcAAAAJ&hl=en)
 
 <!--
 **anbhimi/anbhimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
