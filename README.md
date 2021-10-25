@@ -6,7 +6,7 @@
 > Jun 2021 - Present
 
 - Developed and validated complex machine learning and deep learning models on medical images (Chest X-Rays, Mammograms and Digital Hand Images) to identify racial bias.
-- Development of various modules in [Niffler](github.com/Emory-HITI/Niffler/).
+- Development of various modules in [Niffler](https://github.com/Emory-HITI/Niffler/).
 - Development and Data Engineering on Mammogram Databases.
 
 ##### Data Science Intern - Unisoft Solutions LLC
