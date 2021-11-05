@@ -28,9 +28,8 @@
 ##### Software Engineer (Machine Learning) - GGK Technologies
 > Dec 2017 - Jul 2019
 
-- As a Machine Learning Engineer, I was responsible for developing data science pipelines for problems of various domains including healthcare, banking, and HR Analytics. The pipeline development includes data mining/collection, data processing, applying machine learning and deep learning models, model improvement. I have worked extensively on Natural Language Processing Problems and Deep Learning Algorithms.
-- Developed Machine Learning models to classify and explain the claim denial process with the help of several data points such as ICD Codes and Demographic Information of the patient.
-
+- Developed a Machine Learning solution (classification model) on highly sensitive healthcare data to reduce the time taken by the operations team by 60% to determine the process of claim-denial in the health insurance industry.
+- Implemented a Language Processing Model to process and rank resumes based on experience, education against a given job description as a part of a pilot project. The pilot project was not continued because of the discrepancies and efficiency issues in the Language Model.
 ### Research Papers :books:
 
 ##### Reading Race: AI Recognises Patient's Racial Identity In Medical Images - IUPUI (PLHI Lab) and Emory University (HITI Lab)
