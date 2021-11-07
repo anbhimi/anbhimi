@@ -44,10 +44,10 @@
 ##### Blood Glucose Level Prediction as Time-Series Modeling using Sequence-to-Sequence Neural Networks - IUPUI (PLHI Lab)
 * https://par.nsf.gov/biblio/10188463
 
-##### Diagnosis and Procedure codes from MIMIC notes - IUPUI (PLHI Lab)
+##### Multi-label natural language processing to identify diagnosis and procedure codes from MIMIC-III inpatient notes - IUPUI (PLHI Lab)
 * https://arxiv.org/abs/2003.07507
 
-##### ImageBERT for Chest X-ray classification - IUPUI (PLHI Lab)
+##### Using ImageBERT to improve performance of multi-class Chest Xray classification - IUPUI (PLHI Lab)
 * https://scholarworks.iupui.edu/handle/1805/23153
 
 ##### Human Pose Estimation in Images and Videos - KL University (Vison Computing Research Center)
