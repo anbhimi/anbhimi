@@ -6,14 +6,14 @@
 > Jun 2021 - Present
 
 - Developed and validated complex machine learning and deep learning models on medical images (Chest X-Rays, Mammograms and Digital Hand Images) to identify racial bias.
-- Development of various modules in [Niffler](https://github.com/Emory-HITI/Niffler/).
-- Development and Data Engineering on Mammogram Databases.
+- Developed various modules in [Niffler](https://github.com/Emory-HITI/Niffler/) - A DICOM Framework for Machine Learning and Processing Pipelines.
+- Working with a client to develop a Deep Learning Pipeline to detect cancers in Mammogram Images.
 
 ##### Data Science Intern - Unisoft Solutions LLC
 > Oct 2020 - May 2021
  
-- Kick-Started a Machine Learning project to cluster the customers-based on their interests and market to their needs accordingly. 
-- I worked with a client on Data Analysis, Visualizations and automating the daily operations of the client. We built a unified data repository of customers to apply Machine Learning models and extract insights from the data.
+- Kick-Started a Machine Learning project to cluster the customers based on their interests and market to their needs accordingly. 
+- Worked with a client on Data Analysis, Visualizations and automated operations to analyze the data quality. We built a unified data repository of customers to apply Machine Learning models and extract insights from the data.
 - Developed applications to store, access, retrieve, analyze and build models on the data from the unified data repository.
 
 ##### Research Assistant (Data Science and Machine Learning) - IUPUI
