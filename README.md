@@ -1,5 +1,9 @@
 ## Hi 👋
 
+I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am working as a Systems Software Engineer in the field of ML at Emory University. I recently (May 2021) graduated from Indiana University - Indianapolis majoring in Applied Data Science.
+
+I have worked for 4 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
+
 ### Work Experience :computer:
 
 ##### Systems Software Engineer (Machine Learning) - Emory University
