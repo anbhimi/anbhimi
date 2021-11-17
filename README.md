@@ -22,20 +22,15 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 > Oct 2020 - May 2021
  
 - Kick-Started a Machine Learning project to cluster the customers based on their interests and market to their needs accordingly. 
-
 - Worked with a client on Data Analysis, Visualizations and automated operations to analyze the data quality. We built a unified data repository of customers to apply Machine Learning models and extract insights from the data.
-
 - Developed applications to store, access, retrieve, analyze and build models on the data from the unified data repository.
 
 ##### Research Assistant (Data Science and Machine Learning) - IUPUI
 > Aug 2019 - May 2021
 
 - Implemented a time-series forecasting model to forecast the blood-glucose levels of diabetic patients to treat hyperglycemia and hypoglycemia. The research paper has been accepted at [ECAI - 2020](https://par.nsf.gov/biblio/10188463).
-
-- Implemented a Few-Shot Learning algorithm to fine-tune a few image triplets created from CheXpert dataset (https://stanfordmlgroup.github.io/competitions/chexpert/) and improved pathology classification results by decreasing false-positives and false-negitives. We have experimented with usual Few-Shot Learning and Incremental Few-Shot Learning models. MarginRakingLoss (https://pytorch.org/docs/stable/generated/torch.nn.MarginRankingLoss.html) is used as the loss function to implement Few-Shot Learning model. This research was performed at [PLHI Lab - IUPUI](https://plhi.sitehost.iu.edu/) under the supervision of [Prof. Saptarshi Purkayastha](https://soic.iupui.edu/people/saptarshi-purkayastha/).
-
+- Implemented a Few-Shot Learning algorithm to fine-tune a few image triplets created from [CheXpert dataset] (https://stanfordmlgroup.github.io/competitions/chexpert/) and improved pathology classification results by decreasing false-positives and false-negitives. We have experimented with usual Few-Shot Learning and Incremental Few-Shot Learning models. [MarginRakingLoss] (https://pytorch.org/docs/stable/generated/torch.nn.MarginRankingLoss.html) is used as the loss function to implement Few-Shot Learning model. This research was performed at [PLHI Lab - IUPUI](https://plhi.sitehost.iu.edu/) under the supervision of [Prof. Saptarshi Purkayastha](https://soic.iupui.edu/people/saptarshi-purkayastha/).
 - Worked on developing language models to identify and reduce the time taken to diagnose rare diseases from patient notes. This involved extracting symptoms, disease/disorders of a given patient over a period of time to narrow down the probability of the sickness being a certain disease. The research is being conducted at [Data Lab - IUPUI](https://data.soic.iupui.edu/people.html) under the esteemed guidance of [Prof. Sunandan Chakraborty](https://soic.iupui.edu/people/sunandan-chakraborty/). We used Entity and Information Extraction techniques to extract the relevant entities from patient notes and model them accordingly.
-
 - Worked on a POC to develop and implement a [Natural Language Processing algorithm](https://github.com/anbhimi/fake_news_detection) to detect and explain the presence of fake and false new statements collected from various media outlets in the US.
 
 ##### Software Engineer (Machine Learning) - GGK Technologies
