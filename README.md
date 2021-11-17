@@ -4,7 +4,12 @@ I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am wo
 
 I have worked for 4 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
 
-### Work Experience :computer:
+- [Work Experience](#work-experience)
+- [Research Papers](#research-papers)
+- [Profile](#profile)
+- [Contact](#contact)
+
+### Work Experience
 
 ##### Systems Software Engineer (Machine Learning) - Emory University
 > Jun 2021 - Present
@@ -17,14 +22,15 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 > Oct 2020 - May 2021
  
 - Kick-Started a Machine Learning project to cluster the customers based on their interests and market to their needs accordingly. 
+
 - Worked with a client on Data Analysis, Visualizations and automated operations to analyze the data quality. We built a unified data repository of customers to apply Machine Learning models and extract insights from the data.
+
 - Developed applications to store, access, retrieve, analyze and build models on the data from the unified data repository.
 
 ##### Research Assistant (Data Science and Machine Learning) - IUPUI
 > Aug 2019 - May 2021
 
 - Implemented a time-series forecasting model to forecast the blood-glucose levels of diabetic patients to treat hyperglycemia and hypoglycemia. The research paper has been accepted at [ECAI - 2020](https://par.nsf.gov/biblio/10188463).
-
 
 - Implemented a Few-Shot Learning algorithm to fine-tune a few image triplets created from CheXpert dataset (https://stanfordmlgroup.github.io/competitions/chexpert/) and improved pathology classification results by decreasing false-positives and false-negitives. We have experimented with usual Few-Shot Learning and Incremental Few-Shot Learning models. MarginRakingLoss (https://pytorch.org/docs/stable/generated/torch.nn.MarginRankingLoss.html) is used as the loss function to implement Few-Shot Learning model. This research was performed at [PLHI Lab - IUPUI](https://plhi.sitehost.iu.edu/) under the supervision of [Prof. Saptarshi Purkayastha](https://soic.iupui.edu/people/saptarshi-purkayastha/).
 
@@ -37,7 +43,9 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 
 - Developed a Machine Learning solution (classification model) on highly sensitive healthcare data to reduce the time taken by the operations team by 60% to determine the process of claim-denial in the health insurance industry.
 - Implemented a Language Processing Model to process and rank resumes based on experience, education against a given job description as a part of a pilot project. The pilot project was not continued because of the discrepancies and efficiency issues in the Language Model.
-### Research Papers :books:
+
+
+### Research Papers
 
 ##### Reading Race: AI Recognises Patient's Racial Identity In Medical Images - IUPUI (PLHI Lab) and Emory University (HITI Lab)
 * https://arxiv.org/abs/2107.10356
@@ -58,26 +66,12 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 * https://www.sciencepubco.com/index.php/ijet/article/view/17640/7764
 
 
-### Contact
-
-* +1 317-701-8138 :phone:
-* [Gmail](mailto:bananthreddy30@gmail.com)
-
 ### Profile
 * [LinkedIn](https://www.linkedin.com/in/ananth-reddy-703245188/)
 * [Google Scholar](https://scholar.google.com/citations?user=gfqzBdcAAAAJ&hl=en)
 
-<!--
-**anbhimi/anbhimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* +1 317-701-8138 :phone:
+* [Gmail](mailto:bananthreddy30@gmail.com)
