@@ -6,6 +6,7 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 
 - [Work Experience](#work-experience)
 - [Research Papers](#research-papers)
+- [Other Works](#other-works)
 - [Profile](#profile)
 - [Contact](#contact)
 
@@ -60,6 +61,7 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 ##### Human Pose Estimation in Images and Videos - KL University (Vison Computing Research Center)
 * https://www.sciencepubco.com/index.php/ijet/article/view/17640/7764
 
+### Other Works
 
 ### Profile
 * [LinkedIn](https://www.linkedin.com/in/ananth-reddy-703245188/)
