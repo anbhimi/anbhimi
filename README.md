@@ -63,6 +63,28 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 
 ### Other Works
 
+##### GGK Technologies - Hack Day
+> 2018
+
+- Implemented a scripting mechanisum to automate the daily operations of Machine Learning Engineers and Data Scientists. The developed scripts could be controlled through text and audio.
+- Won first position among 20 participating teams.
+
+##### First Net Hackathon, Indianapolis
+> 2019
+
+- Designed and implemented a Mobile application to visualize and analyze the opioid crisis problem in Indiana. The application provides detailed analysis for each county based on the historical data of opioid usage, poverty rate, and other socio-economic factors.
+- Won first place in the Mobile application Section out of 9 participating teams.
+
+##### Automated Streams Analysis for Public Safety Challenge - Part 1
+> 2020
+
+- Proposed and developed tools and capabilities to detect and analyze emergency events from live streaming multimodal public safety data.
+
+##### SPARC FAIR Codethon - 2021 (Open Source Competition)
+> 2021
+
+- Developed python scripts to convert data from SPARC to NWB (Neurodata without Borders) format. Metadata along with demographic information and neural electrodes information is converted and stored in a CSV format for further analysis.
+
 ### Profile
 * [LinkedIn](https://www.linkedin.com/in/ananth-reddy-703245188/)
 * [Google Scholar](https://scholar.google.com/citations?user=gfqzBdcAAAAJ&hl=en)
