@@ -1,8 +1,8 @@
 ## Hi 👋
 
-I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am working as a Systems Software Engineer in the field of ML at Emory University. I recently (May 2021) graduated from Indiana University - Indianapolis majoring in Applied Data Science.
+I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am working as a AI Software Engineer in the field of Data Science and Machine Learning at Delta Airlines.
 
-I have worked for 4 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
+I have been working for 5 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
 
 - [Work Experience](#work-experience)
 - [Research Papers](#research-papers)
@@ -12,8 +12,11 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 
 ### Work Experience
 
+##### AI Software Engineer - Delta Airlines
+> Mar 2022 - Present
+
 ##### Systems Software Engineer (Machine Learning) - Emory University
-> Jun 2021 - Present
+> Jun 2021 - Mar 2022
 
 - Developed and validated complex machine learning and deep learning models on medical images (Chest X-Rays, Mammograms and Digital Hand Images) to identify racial bias.
 - Developed various modules in [Niffler](https://github.com/Emory-HITI/Niffler/) - A DICOM Framework for Machine Learning and Processing Pipelines.
@@ -62,6 +65,9 @@ I have worked for 4 years in the field of Machine Learning and Data Science in v
 * https://www.sciencepubco.com/index.php/ijet/article/view/17640/7764
 
 ### Other Works
+
+##### GSoC Mentor - Emory BMI
+> 2022
 
 ##### GGK Technologies - Hack Day
 > 2018
