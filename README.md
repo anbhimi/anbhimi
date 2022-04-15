@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am working as a AI Software Engineer in the field of Data Science and Machine Learning at Delta Airlines.
+I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am working as a AI Software Engineer at Delta Airlines.
 
 I have been working for 5 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
 
