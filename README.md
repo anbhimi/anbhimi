@@ -52,6 +52,9 @@ I have been working for 5 years in the field of Machine Learning and Data Scienc
 ##### PLHI-MC10: A dataset of exercise activities captured through a triple synchronous medically-approved sensor - IUPUI (PLHI Lab)
 * https://www.sciencedirect.com/science/article/pii/S2352340921005710
 
+##### Few-Shot Transfer Learning to improve Chest X-Ray pathology detection using limited triplets
+* https://arxiv.org/abs/2204.07824
+
 ##### Blood Glucose Level Prediction as Time-Series Modeling using Sequence-to-Sequence Neural Networks - IUPUI (PLHI Lab)
 * https://par.nsf.gov/biblio/10188463
 
