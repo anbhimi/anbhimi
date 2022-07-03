@@ -74,6 +74,8 @@ I have been working for 5 years in the field of Machine Learning and Data Scienc
 ##### GSoC Mentor - Emory BMI
 > 2022
 
+- Mentored a team of two students in enhancing and developing workflow modules in [Niffler](https://github.com/Emory-HITI/Niffler/) with [Emory BMI](https://github.com/NISYSLAB/Emory-BMI-GSoC) to improve the speed and efficiency of the package usage.
+
 ##### GGK Technologies - Hack Day
 > 2018
 
