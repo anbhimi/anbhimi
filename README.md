@@ -15,6 +15,8 @@ I have been working for 5 years in the field of Machine Learning and Data Scienc
 ##### AI Software Engineer - Delta Airlines
 > Mar 2022 - Present
 
+- Developing and architecting an internal application for Travel Analytics and Prediction.
+
 ##### Systems Software Engineer (Machine Learning) - Emory University
 > Jun 2021 - Mar 2022
 
