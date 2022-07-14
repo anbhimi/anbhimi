@@ -5,7 +5,6 @@ I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am wo
 I have been working for 5 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
 
 - [Work Experience](#work-experience)
-- [Research Papers](#research-papers)
 - [Other Works](#other-works)
 - [Profile](#profile)
 - [Contact](#contact)
@@ -22,7 +21,7 @@ I have been working for 5 years in the field of Machine Learning and Data Scienc
 
 - Developed and validated complex machine learning and deep learning models on medical images (Chest X-Rays, Mammograms and Digital Hand Images) to identify racial bias.
 - Developed various modules in [Niffler](https://github.com/Emory-HITI/Niffler/) - A DICOM Framework for Machine Learning and Processing Pipelines.
-- Working with a client to develop a Deep Learning Pipeline to detect cancers in Mammogram Images.
+- Worked with a client to develop a Deep Learning Pipeline to detect cancers in Mammogram Images.
 
 ##### Data Science Intern - Unisoft Solutions LLC
 > Oct 2020 - May 2021
@@ -45,29 +44,6 @@ I have been working for 5 years in the field of Machine Learning and Data Scienc
 - Developed a Machine Learning solution (classification model) on highly sensitive healthcare data to reduce the time taken by the operations team by 60% to determine the process of claim-denial in the health insurance industry.
 - Implemented a Language Processing Model to process and rank resumes based on experience, education against a given job description as a part of a pilot project. The pilot project was not continued because of the discrepancies and efficiency issues in the Language Model.
 
-
-### Research Papers
-
-##### Reading Race: AI Recognises Patient's Racial Identity In Medical Images - IUPUI (PLHI Lab) and Emory University (HITI Lab)
-* https://arxiv.org/abs/2107.10356
-
-##### PLHI-MC10: A dataset of exercise activities captured through a triple synchronous medically-approved sensor - IUPUI (PLHI Lab)
-* https://www.sciencedirect.com/science/article/pii/S2352340921005710
-
-##### Few-Shot Transfer Learning to improve Chest X-Ray pathology detection using limited triplets
-* https://arxiv.org/abs/2204.07824
-
-##### Blood Glucose Level Prediction as Time-Series Modeling using Sequence-to-Sequence Neural Networks - IUPUI (PLHI Lab)
-* https://par.nsf.gov/biblio/10188463
-
-##### Multi-label natural language processing to identify diagnosis and procedure codes from MIMIC-III inpatient notes - IUPUI (PLHI Lab)
-* https://arxiv.org/abs/2003.07507
-
-##### Using ImageBERT to improve performance of multi-class Chest Xray classification - IUPUI (PLHI Lab)
-* https://scholarworks.iupui.edu/handle/1805/23153
-
-##### Human Pose Estimation in Images and Videos - KL University (Vison Computing Research Center)
-* https://www.sciencepubco.com/index.php/ijet/article/view/17640/7764
 
 ### Other Works
 
