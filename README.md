@@ -2,8 +2,6 @@
 
 I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am working as a AI Software Engineer at Delta Airlines.
 
-I have been working for 5 years in the field of Machine Learning and Data Science in various roles including Software Engineer, Research Assistant and Data Scientist.
-
 - [Work Experience](#work-experience)
 - [Other Works](#other-works)
 - [Profile](#profile)
@@ -14,7 +12,7 @@ I have been working for 5 years in the field of Machine Learning and Data Scienc
 ##### AI Software Engineer - Delta Airlines
 > Mar 2022 - Present
 
-- Developing and architecting an internal application for Travel Analytics and Prediction.
+- Developed a regression algorithm for travel prediction and analytics in an internal application.
 
 ##### Systems Software Engineer (Machine Learning) - Emory University
 > Jun 2021 - Mar 2022
