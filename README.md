@@ -10,9 +10,12 @@ I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am wo
 ### Work Experience
 
 ##### AI Software Engineer - Delta Airlines
-> Mar 2022 - Present
+> Apr 2022 - Present
 
-- Developed a regression algorithm for travel prediction and analytics in an internal application.
+- Developed a Q/A model on top of OpenAI GPT 3.5 LLM using RAGs Pipeline for an internal application to improve the experience of reservation agents.
+- Designed metrics for evaluating RAGs Pipeline with inspiration from OpenAI “evals” framework and TruLens. This improved the answer generation of the LLM architecture by 23%.
+- Implemented project features independently - which involved design, infrastructure deployment, logic development and maintenance.
+- Developed a classification algorithm for an internal application to improve travel analytics and prediction to alleviate employee travel experience.
 
 ##### Systems Software Engineer (Machine Learning) - Emory University
 > Jun 2021 - Mar 2022
@@ -49,6 +52,10 @@ I am Ananth, a Machine Learning and Deep Learning Enthusiast. Currently, I am wo
 > 2022
 
 - Mentored a team of two students in enhancing and developing workflow modules in [Niffler](https://github.com/Emory-HITI/Niffler/) with [Emory BMI](https://github.com/NISYSLAB/Emory-BMI-GSoC) to improve the speed and efficiency of the package usage.
+
+##### GSoC Mentor - Alaska
+> 2024
+- Proposed projects to develop new features for [Niffler](https://github.com/Emory-HITI/Niffler/). Mentored a student to develop [AWANTA](https://github.com/KathiraveluLab/AWANTA) Framework.
 
 ##### GGK Technologies - Hack Day
 > 2018
